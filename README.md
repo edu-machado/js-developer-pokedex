@@ -1,1 +1,3 @@
 # Trilha JS Developer - Pokedex
+
+Iniciado um clone, modificações a serem feitas, aguardem... 
